@@ -1,0 +1,10 @@
+C:\Projects\RaspPiSample\Tests\bin\Debug\Tests.dll
+C:\Projects\RaspPiSample\Tests\bin\Debug\Tests.pdb
+C:\Projects\RaspPiSample\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\RaspPiSample\Tests\bin\Debug\nunit.framework.dll
+C:\Projects\RaspPiSample\Tests\bin\Debug\RaspPiSample.exe
+C:\Projects\RaspPiSample\Tests\bin\Debug\RaspPiSample.pdb
+C:\Projects\RaspPiSample\Tests\bin\Debug\nunit.framework.xml
+C:\Projects\RaspPiSample\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Projects\RaspPiSample\Tests\obj\Debug\Tests.dll
+C:\Projects\RaspPiSample\Tests\obj\Debug\Tests.pdb

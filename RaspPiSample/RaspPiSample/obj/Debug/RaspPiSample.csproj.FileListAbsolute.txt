@@ -1,0 +1,8 @@
+C:\Projects\RaspPiSample\RaspPiSample\bin\Debug\RaspPiSample.exe.config
+C:\Projects\RaspPiSample\RaspPiSample\bin\Debug\RaspPiSample.exe
+C:\Projects\RaspPiSample\RaspPiSample\bin\Debug\RaspPiSample.pdb
+C:\Projects\RaspPiSample\RaspPiSample\bin\Debug\nunit.framework.dll
+C:\Projects\RaspPiSample\RaspPiSample\bin\Debug\nunit.framework.xml
+C:\Projects\RaspPiSample\RaspPiSample\obj\Debug\RaspPiSample.csprojResolveAssemblyReference.cache
+C:\Projects\RaspPiSample\RaspPiSample\obj\Debug\RaspPiSample.exe
+C:\Projects\RaspPiSample\RaspPiSample\obj\Debug\RaspPiSample.pdb
