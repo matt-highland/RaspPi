@@ -8,6 +8,7 @@ namespace Tests
     {
         [TestCase(0,0,0)]
         [TestCase(1, 1, 2)]
+        [TestCase(3, 1, 4)]
         public void DoAddition_returns_expected_results(int a, int b, int expectedResult)
         {
             var service = new Service();
